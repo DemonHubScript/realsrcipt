@@ -4,7 +4,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
     Title = "Demon Hub V1",
-    SubTitle = "Infinite",
+    SubTitle = "DEMON!",
     TabWidth = 160,
     Size = UDim2.fromOffset(500, 320),
     Acrylic = false,
